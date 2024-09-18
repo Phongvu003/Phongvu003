@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Phongvu003
-- 🌱 I’m currently learning Javascript
-- 💕 Thank you for coming to see my project
 - 😊 Contact me via nguyenphongvu003@gmail.com.
 - 😘 Have a nice day
 
